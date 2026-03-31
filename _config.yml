@@ -1,7 +1,7 @@
 title: Hassaan Ahmed
 description: Personal website of Hassaan Ahmed
 
-# Fetch the theme directly from GitHub
+# Use remote_theme instead of theme
 remote_theme: jekyll/minima
 
 plugins:
