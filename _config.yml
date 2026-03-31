@@ -1,5 +1,5 @@
 title: Hassaan Ahmed
-description: Personal website of Hassaan Ahmed
+# description: Personal website of Hassaan Ahmed
 
 # Use remote_theme instead of theme
 remote_theme: jekyll/minima
@@ -12,3 +12,5 @@ header_pages:
   - index.md
   - about.md
   - read.md
+  - cv.md
+  - pubs.md
