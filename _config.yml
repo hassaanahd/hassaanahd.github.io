@@ -1,3 +1,5 @@
 title: Hassaan Ahmed
-description: My personal website
-theme: minimal
+description: Personal website of Hassaan Ahmed
+remote_theme: pages-themes/minimal@v0.3.1
+plugins:
+  - jekyll-remote-theme
