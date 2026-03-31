@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 I like Dune.
+
+I hate sand.
