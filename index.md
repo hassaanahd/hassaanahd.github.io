@@ -1,3 +1,3 @@
-# Hello, I'm Hassaan Ahmed
+# Hello!
 
 You can also call me **Fatman** 😄
