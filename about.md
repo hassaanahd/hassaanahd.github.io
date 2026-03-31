@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I like Dune.
-
-I hate sand.
+*You are the bane of my existence and the object of all my desires.* - Anthony Bridgerton
