@@ -8,9 +8,9 @@ permalink: /cv/
 
 **Lahore University of Management Sciences (LUMS), Lahore, Pakistan**
 
-- **PhD in Electrical Engineering** *(2023 -- Present)*  
-- **MS in Electrical Engineering** *(2021 -- 2023)*  
-- **BS in Electrical Engineering** *(2012 -- 2016)*  
+- PhD in Electrical Engineering  *(2023 -- Present)*  
+- MS in Electrical Engineering   *(2021 -- 2023)*  
+- BS in Electrical Engineering   *(2012 -- 2016)*  
 
 ---
 
