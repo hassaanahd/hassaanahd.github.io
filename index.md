@@ -1,5 +1,11 @@
-# Hello!
+---
+layout: home
+title: Home
+---
 
 You can also call me **Fatman** 😄
 
-[About](/about/)
+## What you'll find here
+- About
+- Projects
+- Reading List
