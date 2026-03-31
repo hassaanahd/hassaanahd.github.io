@@ -1,9 +1,13 @@
 title: Hassaan Ahmed
 description: Personal website of Hassaan Ahmed
 
-theme: jekyll-theme-minima
+# Fetch the theme directly from GitHub
+remote_theme: jekyll/minima
 
-# Navigation menu (this works in Minima)
+plugins:
+  - jekyll-remote-theme
+
+# Navigation menu
 header_pages:
   - index.md
   - about.md
