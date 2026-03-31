@@ -1,7 +1,7 @@
 title: Hassaan Ahmed
 description: Personal website of Hassaan Ahmed
 
-theme: minima
+theme: jekyll-theme-minima
 
 # Navigation menu (this works in Minima)
 header_pages:
