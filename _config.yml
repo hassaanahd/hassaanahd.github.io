@@ -1,8 +1,9 @@
 title: Hassaan Ahmed
 description: Personal website of Hassaan Ahmed
-theme: jekyll-theme-minima
-nav:
-  - name: Home
-    link: /
-  - name: About
-    link: /about/
+
+theme: minima
+
+# Navigation menu (this works in Minima)
+header_pages:
+  - index.md
+  - about.md
