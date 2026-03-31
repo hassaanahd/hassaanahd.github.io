@@ -1,3 +1,8 @@
 title: Hassaan Ahmed
 description: Personal website of Hassaan Ahmed
-theme: jekyll-theme-primer
+theme: jekyll-theme-minima
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about/
