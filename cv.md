@@ -1,5 +1,5 @@
 ---
-  layout: page
-  title: Curriculum Vitae
+layout: page
+title: CV
+permalink: /cv/
 ---
-    
