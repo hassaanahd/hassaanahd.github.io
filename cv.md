@@ -36,7 +36,7 @@ Koopman Operator Theory, Dynamic Mode Decomposition, Scientific Machine Learning
 ## Experience
 
 **Research Assistant** (2023 -- Present)  
-*Centre for Water Informatics and Technology (WIT), LUMS*  
+  &nbsp;&nbsp;*Centre for Water Informatics and Technology (WIT), LUMS*  
 
 **Teaching Assistant** (2016 -- 2025)  
   &nbsp;&nbsp;*Department of Electrical Engineering, LUMS*  
