@@ -6,8 +6,6 @@ permalink: /cv/
 
 ## Education
 
-## Education
-
 **PhD** in Electrical Engineering (2023 -- Present)  
   &nbsp;&nbsp;Signals, Communications, and Intelligent Systems Stream  
   &nbsp;&nbsp;*Lahore University of Management Sciences, Lahore, Pakistan*  
