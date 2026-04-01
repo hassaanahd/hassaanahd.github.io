@@ -35,9 +35,9 @@ Koopman Operator Theory, Dynamic Mode Decomposition, Scientific Machine Learning
 
 ## Experience
 
-**Research Assistant**  
-Centre for Water Informatics and Technology (WIT), LUMS *(2023 -- Present)*  
-- Working on data-driven system identification, analysis, and control of natural dynamical systems.
+**Research Assistant** (2023 -- Present)  
+  &nbsp;&nbsp;*Centre for Water Informatics and Technology (WIT), LUMS*  
+  &nbsp;&nbsp;Data-Driven system identification, analysis and control; Characterization of tipping points; Socio-ecological aspects of groundwater usage.
 
 **Teaching Assistant**  
 Department of Electrical Engineering, LUMS  
