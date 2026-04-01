@@ -7,15 +7,16 @@ permalink: /cv/
 ## Education
 
 ## Education
-
 **PhD in Electrical Engineering (2023 -- Present)**  
-> Lahore University of Management Sciences (LUMS), Lahore, Pakistan  
+&nbsp;&nbsp;&nbsp;&nbsp;Lahore University of Management Sciences (LUMS), Lahore, Pakistan
+**PhD in Electrical Engineering (2023 -- Present)**  
+&nbsp;&nbsp;Lahore University of Management Sciences (LUMS), Lahore, Pakistan  
 
 **MS in Electrical Engineering (2021 -- 2023)**  
-> Lahore University of Management Sciences (LUMS), Lahore, Pakistan  
+&nbsp;&nbsp;Lahore University of Management Sciences (LUMS), Lahore, Pakistan  
 
 **BS in Electrical Engineering (2012 -- 2016)**  
-> Lahore University of Management Sciences (LUMS), Lahore, Pakistan  
+&nbsp;&nbsp;Lahore University of Management Sciences (LUMS), Lahore, Pakistan  
 
 ---
 
