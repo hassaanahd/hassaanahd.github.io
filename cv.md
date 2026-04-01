@@ -24,13 +24,13 @@ permalink: /cv/
 
 ## Research Interests
 
-**Earth & Climate Systems:**  
-Groundwater, Climate Change, Socio-Ecological Systems  
+**Earth System Physics:**  
+Groundwater, Climate, Coupled Socio-Ecological Systems  
 
-**Dynamical Systems & Control:**  
+**Control Theoretic:**  
 Dynamical Systems, Nonlinear Systems, Control Theory, Robotics, Optimization  
 
-**Data-Driven Dynamics & AI:**  
+**Data-Driven & AI:**  
 Koopman Operator Theory, Dynamic Mode Decomposition, Scientific Machine Learning  
 
 ---
