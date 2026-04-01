@@ -42,13 +42,13 @@ Koopman Operator Theory, Dynamic Mode Decomposition, Scientific Machine Learning
 **Teaching Assistant**  (2016 -- 2025)
   &nbsp;&nbsp;*Department of Electrical Engineering, LUMS*  
   &nbsp;&nbsp;&nbsp;Delivered tutorials, graded assignments, and mentored student projects.  
-  &nbsp;&nbsp;&nbsp;*EE-5614 Learning for Dynamics & Control* (Spring 2025)  
-  &nbsp;&nbsp;&nbsp;*ENV-362 Water & Society: A Systems Approach* (Spring 2025)  
-  &nbsp;&nbsp;&nbsp;*EE-5612 Socio-Ecological Systems & Sustainability* (Spring 2023)  
-  &nbsp;&nbsp;&nbsp;*EE-552 Power Electronics* (Fall 2016,2017,2021)  
-  &nbsp;&nbsp;&nbsp;*EE-555 Renewable Energy Systems* (Fall 2016)  
-  &nbsp;&nbsp;&nbsp;*EE-554 Modelling & Control of Electrical Drives* (Spring 2017, 2018) 
-  &nbsp;&nbsp;&nbsp;*EE-241L Circuits Lab* (Spring 2016, 2017)  
+  &nbsp;&nbsp;&nbsp;&nbsp;*EE-5614 Learning for Dynamics & Control (Spring 2025)*  
+  &nbsp;&nbsp;&nbsp;&nbsp;*ENV-362 Water & Society: A Systems Approach (Spring 2025)*  
+  &nbsp;&nbsp;&nbsp;&nbsp;*EE-5612 Socio-Ecological Systems & Sustainability (Spring 2023)*  
+  &nbsp;&nbsp;&nbsp;&nbsp;*EE-552 Power Electronics (Fall 2016,2017,2021)*  
+  &nbsp;&nbsp;&nbsp;&nbsp;*EE-555 Renewable Energy Systems (Fall 2016)*  
+  &nbsp;&nbsp;&nbsp;&nbsp;*EE-554 Modelling & Control of Electrical Drives (Spring 2017, 2018)*  
+  &nbsp;&nbsp;&nbsp;&nbsp;*EE-241L Circuits Lab (Spring 2016, 2017)*
 
 ---
 
