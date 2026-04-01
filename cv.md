@@ -39,7 +39,7 @@ Koopman Operator Theory, Dynamic Mode Decomposition, Scientific Machine Learning
   &nbsp;&nbsp;*Centre for Water Informatics and Technology (WIT), LUMS*  
   &nbsp;&nbsp;Data-Driven system identification, analysis and control; Characterization of tipping points; Socio-ecological aspects of groundwater usage.
 
-**Teaching Assistant**  (2016 -- 2025)
+**Teaching Assistant** (2016 -- 2025)  
   &nbsp;&nbsp;*Department of Electrical Engineering, LUMS*  
   &nbsp;&nbsp;&nbsp;Delivered tutorials, graded assignments, and mentored student projects.  
   &nbsp;&nbsp;&nbsp;&nbsp;*EE-5614 Learning for Dynamics & Control (Spring 2025)*  
