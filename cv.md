@@ -8,17 +8,17 @@ permalink: /cv/
 
 ## Education
 
-**PhD in Electrical Engineering (2023 -- Present)** 
-&nbsp;&nbsp;Signals, Communications, and Intelligent Systems Stream 
-&nbsp;&nbsp;Lahore University of Management Sciences (LUMS), Lahore, Pakistan  
+**PhD** in Electrical Engineering (2023 -- Present)
+  &nbsp;&nbsp;Signals, Communications, and Intelligent Systems Stream 
+  &nbsp;&nbsp;*Lahore University of Management Sciences (LUMS), Lahore, Pakistan*  
 
-**MS in Electrical Engineering (2021 -- 2023)** 
-&nbsp;&nbsp;Energy and Power Systems Stream 
-&nbsp;&nbsp;Lahore University of Management Sciences (LUMS), Lahore, Pakistan  
+**MS** in Electrical Engineering (2021 -- 2023)
+  &nbsp;&nbsp;Energy and Power Systems Stream 
+  &nbsp;&nbsp;*Lahore University of Management Sciences (LUMS), Lahore, Pakistan*  
 
-**BS in Electrical Engineering (2012 -- 2016)** 
-&nbsp;&nbsp;Energy and Power Systems Stream 
-&nbsp;&nbsp;Lahore University of Management Sciences (LUMS), Lahore, Pakistan  
+**BS** in Electrical Engineering (2012 -- 2016)
+  &nbsp;&nbsp;Energy and Power Systems Stream 
+  &nbsp;&nbsp;*Lahore University of Management Sciences (LUMS), Lahore, Pakistan*  
 
 ---
 
