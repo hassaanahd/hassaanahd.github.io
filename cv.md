@@ -45,20 +45,6 @@ Koopman Operator Theory, Dynamic Mode Decomposition, Scientific Machine Learning
 
 ---
 
-## Workshops & Conferences
-
-- 14th Teaching the Teachers Workshop 2025: Hardware-X — Advanced Workshop on Circuit Theory, Measurements and Design, LUMS *(Attended)*  
-- IEEE 25th Workshop on Control and Modeling for Power Electronics (COMPEL 2024), LUMS *(Attended)*  
-
----
-
-## Languages
-
-- Urdu (Native)  
-- English (CEFR C2, IELTS 8.5 – 2025)  
-
----
-
 ## Technical Skills
 
 **Programming:** Python (PyTorch), MATLAB  
