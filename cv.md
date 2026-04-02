@@ -39,7 +39,7 @@ Koopman Operator Theory, Dynamic Mode Decomposition, Scientific Machine Learning
   &nbsp;&nbsp;*Centre for Water Informatics and Technology (WIT), LUMS*  
 
 **Teaching Assistant** (2016 -- 2025)  
-  &nbsp;&nbsp;*Department of Electrical Engineering, LUMS*  
+  &nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
   &nbsp;&nbsp;See full list of courses here: [Teaching Experience](/teach/)
 
 ---
