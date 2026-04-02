@@ -4,7 +4,10 @@ title: Teaching
 permalink: /teach/
 ---
 
-**EE-5614 Learning for Dynamics & Control (Spring 2025)**
+_SBASSE: Syed Babar Ali School of Science & Engineering_  
+_LUMS: Lahore University of Management Sciences, Lahore, Pakistan_
+
+**EE-5614 Learning for Dynamics & Control (Spring 2025)**  
 &nbsp;&nbsp;_Teaching Assistant_  
 &nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
 &nbsp;&nbsp;_Instructor: Dr. Abubakr Muhammad_  
@@ -68,6 +71,3 @@ permalink: /teach/
 &nbsp;&nbsp;_Teaching Assistant_  
 &nbsp;&nbsp;*Department of Electrical Engineering, LUMS*  
 &nbsp;&nbsp;_Instructor: Dr. Hassan Abbas Khan_  
-
-_SBASSE: Syed Babar Ali School of Science & Engineering_  
-_LUMS: Lahore University of Management Sciences, Lahore, Pakistan_
