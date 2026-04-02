@@ -3,7 +3,7 @@ layout: page
 title: Reading List
 permalink: /read/
 ---
-Currently Reading: The Odyssey by Homer, Emily Wilson  
+_Currently reading **The Odyssey** by Homer, Emily Wilson_
 
 ### Completed Novels
 - **White Nights** by Fyodor Dostoevsky
