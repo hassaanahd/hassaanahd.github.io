@@ -6,11 +6,11 @@ permalink: /read/
 _Currently reading **The Odyssey** by Homer, Emily Wilson_
 
 ### Completed Novels
-- **White Nights** by Fyodor Dostoevsky
-- **The Meek One** by Fyodor Dostoevsky
-- **The Iliad** by Homer, Emily Wilson
-- **Dune by Frank Herbert
-- **Dune Messiah** by Frank Herbert
-- **Children of Dune** by Frank Herbert
-- **God Emperor of Dune** by Frank Herbert
-- **The Bell Jar** by Sylvia Plath
+_- **White Nights** by Fyodor Dostoevsky_
+_- **The Meek One** by Fyodor Dostoevsky_
+_- **The Iliad** by Homer, Emily Wilson_
+_- **Dune** by Frank Herbert_
+_- **Dune Messiah** by Frank Herbert_
+_- **Children of Dune** by Frank Herbert_
+_- **God Emperor of Dune** by Frank Herbert_
+_- **The Bell Jar** by Sylvia Plath_
