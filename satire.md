@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Satirical Rants
-permalink: /rants/
+permalink: /satire/
 ---
 
 Lorem Ipsum
