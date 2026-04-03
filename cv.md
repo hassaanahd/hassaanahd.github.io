@@ -36,10 +36,12 @@ Koopman Operator Theory, Dynamic Mode Decomposition, Scientific Machine Learning
 ## Experience
 
 **Research Assistant** (2023 -- Present)  
-  &nbsp;&nbsp;*Centre for Water Informatics and Technology (WIT), LUMS*  
+  &nbsp;&nbsp;*Centre for Water Informatics and Technology*  
+  &nbsp;&nbsp;*Lahore University of Management Sciences, Lahore, Pakistan*  
 
 **Teaching Assistant** (2016 -- 2025)  
-  &nbsp;&nbsp;*Department of Electrical Engineering, Syed Babar Ali School of Science & Engineering (SBASSE), LUMS*  
+  &nbsp;&nbsp;*Department of Electrical Engineering, Syed Babar Ali School of Science & Engineering*  
+  &nbsp;&nbsp;*Lahore University of Management Sciences, Lahore, Pakistan*  
   &nbsp;&nbsp;See full list of courses here: [Teaching Experience](/teach/)
 
 ---
