@@ -7,15 +7,15 @@ permalink: /cv/
 ## Education
 
 **PhD** in Electrical Engineering (2023 -- Present)  
-  &nbsp;&nbsp;Signals, Communications, and Intelligent Systems Stream  
+  &nbsp;&nbsp;*Signals, Communications, and Intelligent Systems Stream*  
   &nbsp;&nbsp;*Lahore University of Management Sciences, Lahore, Pakistan*  
 
 **MS** in Electrical Engineering (2021 -- 2023)  
-  &nbsp;&nbsp;Energy and Power Systems Stream  
+  &nbsp;&nbsp;*Energy and Power Systems Stream*  
   &nbsp;&nbsp;*Lahore University of Management Sciences, Lahore, Pakistan*  
 
 **BS** in Electrical Engineering (2012 -- 2016)  
-  &nbsp;&nbsp;Energy and Power Systems Stream  
+  &nbsp;&nbsp;*Energy and Power Systems Stream*  
   &nbsp;&nbsp;*Lahore University of Management Sciences, Lahore, Pakistan*  
 
 ---
@@ -23,13 +23,13 @@ permalink: /cv/
 ## Research Interests
 
 **Earth System Physics:**  
-Groundwater, Climate, Coupled Socio-Ecological Systems  
+*Groundwater, Climate, Coupled Socio-Ecological Systems*  
 
 **Control Theoretic:**  
-Dynamical Systems, Nonlinear Systems, Control Theory, Robotics, Optimization  
+*Dynamical Systems, Nonlinear Systems, Control Theory, Robotics, Optimization*  
 
 **Data-Driven & AI:**  
-Koopman Operator Theory, Dynamic Mode Decomposition, Scientific Machine Learning  
+*Koopman Operator Theory, Dynamic Mode Decomposition, Scientific Machine Learning*  
 
 ---
 
