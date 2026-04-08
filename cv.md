@@ -46,6 +46,15 @@ permalink: /cv/
 
 ---
 
+## Academic Activities
+
+- AI Spring School 2026: AI Foundations and Frontiers for the Future, The Centre of Urban Informatics, Technology and Policy (CITY), LUMS, 4th-5th April 2026 - _Participant_
+- 14th Teaching the Teachers Workshop 2025: Hardware-X — Advanced Workshop on Circuit Theory, Measurements and Design by Dr. Asad Abidi, LUMS, 22nd-26th December 2026 – _Participant_
+- IEEE 25th Workshop on Control and Modeling for Power Electronics (COMPEL 2024), LUMS, 24th-27th June 2024 – _Participant_
+- National Workshop on Soft Switching And Resonant Converters in Power Electronics, LUMS, 2016 - _Participant_
+
+---
+
 ## Technical Skills
 
 **Programming:** Python (PyTorch), MATLAB  
