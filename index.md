@@ -1,13 +1,8 @@
 ---
 layout: home
-title: "Prologue of Becoming"
-url: "/"
-sections: false   # disables auto-generation of pages from headings
 ---
 
-# Who am I?
-
-I’ll skip the deep philosophical debates—they’re interesting, but probably not what anyone wants to read here. Still, I should share a few things about myself, even if their full relevance isn’t obvious.
+**Who am I?** I’ll skip the deep philosophical debates—they’re interesting, but probably not what anyone wants to read here. Still, I should share a few things about myself, even if their full relevance isn’t obvious.
 
 One late night, I found myself wondering: how would Dr. Hassaan Ahmed sound? Surprisingly, it made sense to my mind—driven not by distractions, but by ambition. Easier said than done, of course. With my supervisor’s support—the proverbial All-Father—I finally took the plunge.
 
@@ -21,4 +16,6 @@ Along the way, I’ve also reinvented myself. Once someone who rarely read ficti
 
 ---
 
-# Ongoing Voyages
+**Ongoing Voyages**
+- Project 1
+- Project 2
