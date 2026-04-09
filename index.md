@@ -6,7 +6,7 @@ You can also call me **Fatman** 😄
 
 **Who am I?** While a philosophical discussion might be intriguing, I will refrain—such reflections often risk inducing boredom, which is not the goal of this introduction. Still, I should offer a few details, even if their full relevance cannot be completely conveyed here.
 
-In the haze of a late-night bender, a curious question emerged: how would Dr. Hassaan Ahmed sound? It rang true to my feeble mind—now guided not by indulgence, but by ambition alone.
+One late-night, a curious question emerged: how would Dr. Hassaan Ahmed sound? It rang true to my feeble mind—now guided not by indulgence, but by ambition alone.
 
 Easier said than done, of course. With my supervisor’s blessing—the proverbial All-Father—I took the plunge.
 
