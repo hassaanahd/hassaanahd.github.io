@@ -4,12 +4,14 @@ layout: home
 
 You can also call me **Fatman** 😄  
 
-**Who am I?** While a philosophical discussion might be intriguing, I will refrain—such reflections often risk inducing boredom, which is not the goal of this introduction. Still, I should offer a few details, even if their full relevance cannot be completely conveyed here.
+**Who am I?** I’ll skip the deep philosophical debates—they’re interesting, but probably not what anyone wants to read here. Still, I should share a few things about myself, even if their full relevance isn’t obvious.
 
-One late-night, a curious question emerged: how would Dr. Hassaan Ahmed sound? It rang true to my feeble mind—now guided not by indulgence, but by ambition alone.
+One late night, I found myself wondering: how would Dr. Hassaan Ahmed sound? Surprisingly, it made sense to my mind—driven not by distractions, but by ambition. Easier said than done, of course. With my supervisor’s support—the proverbial All-Father—I finally took the plunge.
 
-Easier said than done, of course. With my supervisor’s blessing—the proverbial All-Father—I took the plunge.
+It was my supervisor, after all, who sparked this transformation. Every small effort he encouraged shaped the bigger picture, and with steady work, the impact became visible.
 
-My current research is in Earth system physics, with a focus on learning viable models from data. Though research naturally evolves step by step, my goal is to make it truly revolutionary. Time alone will reveal whether my ambitions can become reality.
+In today’s age of accessible information, change can feel slow or hard to notice—but it’s always necessary. Real impact starts with personal growth, and only then can one influence the wider world.
 
-Through this process, I’ve reinvented myself. Once a non-literary soul, I discovered a love for fiction—captivated by the vast dunes of Arrakis and the timeless tragedies of Homer. Like another ambitious soul who once came to dislike sand, I have learned to embrace it.
+My current research is in Earth system physics, focusing on learning models from data—models that could help guide better climate policies and decision-making. Step by step, I hope these efforts will contribute to meaningful change.
+
+Along the way, I’ve also reinvented myself. Once someone who rarely read fiction, I now find joy in it—lost in the deserts of Arrakis or moved by the tragedies of Homer. And yes, like another ambitious soul who famously disliked sand, I’ve learned to embrace it.
