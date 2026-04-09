@@ -7,6 +7,9 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 
+minima:
+  skin: dark
+
 # Navigation menu
 header_pages:
   - index.md
