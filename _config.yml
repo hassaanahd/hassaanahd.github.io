@@ -13,7 +13,6 @@ minima:
 # Navigation menu
 header_pages:
   - index.md
-  - about.md
   - read.md
   - cv.md
   - pubs.md
