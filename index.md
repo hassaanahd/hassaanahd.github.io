@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Prologue of Becoming"
+url: "/"  # keeps it on homepage
 ---
 
 # Who am I?
