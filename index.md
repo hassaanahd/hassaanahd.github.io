@@ -2,7 +2,7 @@
 layout: home
 ---
 
-You can also call me **Fatman** 😄  
+### Prologue
 
 **Who am I?** I’ll skip the deep philosophical debates—they’re interesting, but probably not what anyone wants to read here. Still, I should share a few things about myself, even if their full relevance isn’t obvious.
 
@@ -15,3 +15,7 @@ In today’s age of accessible information, change can feel slow or hard to noti
 My current research is in Earth system physics, focusing on learning models from data—models that could help guide better climate policies and decision-making. Step by step, I hope these efforts will contribute to meaningful change.
 
 Along the way, I’ve also reinvented myself. Once someone who rarely read fiction, I now find joy in it—lost in the deserts of Arrakis or moved by the tragedies of Homer. And yes, like another ambitious soul who famously disliked sand, I’ve learned to embrace the proverbial sand.
+
+===  
+
+### Ongoing Voyages
