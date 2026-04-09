@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Who am I?**
+# Who am I?
 
 I’ll skip the deep philosophical debates—they’re interesting, but probably not what anyone wants to read here. Still, I should share a few things about myself, even if their full relevance isn’t obvious.
 
