@@ -9,7 +9,7 @@ permalink: /cv/
 **PhD** in Electrical Engineering (2023 -- Present)  
   &nbsp;&nbsp;*Signals, Communications, and Intelligent Systems Stream*  
   &nbsp;&nbsp;*Lahore University of Management Sciences, Lahore, Pakistan*  
-  &nbsp;&nbsp;*Supervised by **Dr. Abubakr Muhammad** [Google Scholar](https://scholar.google.com/citations?user=I8BnID0AAAAJ&hl=en) [LinkedIn](https://pk.linkedin.com/in/abubakr-muhammad-604a4927)*  
+  &nbsp;&nbsp;*Supervised by **Dr. Abubakr Muhammad** [(Google Scholar)](https://scholar.google.com/citations?user=I8BnID0AAAAJ&hl=en) [(LinkedIn)](https://pk.linkedin.com/in/abubakr-muhammad-604a4927)*  
 
 **MS** in Electrical Engineering (2021 -- 2023)  
   &nbsp;&nbsp;*Energy and Power Systems Stream*  
