@@ -1,7 +1,8 @@
 ---
 layout: home
 title: "Prologue of Becoming"
-url: "/"  # keeps it on homepage
+url: "/"
+sections: false   # disables auto-generation of pages from headings
 ---
 
 # Who am I?
