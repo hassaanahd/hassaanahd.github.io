@@ -16,6 +16,6 @@ My current research is in Earth system physics, focusing on learning models from
 
 Along the way, I’ve also reinvented myself. Once someone who rarely read fiction, I now find joy in it—lost in the deserts of Arrakis or moved by the tragedies of Homer. And yes, like another ambitious soul who famously disliked sand, I’ve learned to embrace the proverbial sand.
 
-===  
+---
 
 ### Ongoing Voyages
