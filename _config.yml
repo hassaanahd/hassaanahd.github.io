@@ -2,7 +2,7 @@ title: Hassaan Ahmed
 # description: Personal website of Hassaan Ahmed
 
 # Use remote_theme instead of theme
-remote_theme: jekyll/minima@2.5.1
+remote_theme: jekyll/minima
 
 plugins:
   - jekyll-remote-theme
