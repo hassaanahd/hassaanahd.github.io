@@ -17,5 +17,5 @@ Along the way, I’ve also reinvented myself. Once someone who rarely read ficti
 ---
 
 **Ongoing Voyages**
-- Inferring Community Level Interactions Structures in Groundwater Data Consumption.
+- Inferring Community Level Interaction Structures in Groundwater Consumption using DMDc.
 - Modelling Critical Transitions in Climate System
