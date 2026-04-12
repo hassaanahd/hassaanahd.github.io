@@ -43,7 +43,7 @@ permalink: /cv/
 **Teaching Assistant** (2016 -- 2025)  
   &nbsp;&nbsp;*Department of Electrical Engineering, Syed Babar Ali School of Science & Engineering*  
   &nbsp;&nbsp;*Lahore University of Management Sciences, Lahore, Pakistan*  
-  &nbsp;&nbsp;See full list of courses here: [Teaching Experience](/teach/)
+  &nbsp;&nbsp;*See full list of courses here: [Teaching Experience](/teach/)*
 
 ---
 
