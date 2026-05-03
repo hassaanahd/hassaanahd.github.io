@@ -71,7 +71,7 @@ permalink: /teach/
 
 ---
 -->
-_EE: Electrical Engineering_
+_EE: Electrical Engineering_  
 _SBASSE: Syed Babar Ali School of Science & Engineering_  
 _LUMS: Lahore University of Management Sciences, Lahore, Pakistan_
 
