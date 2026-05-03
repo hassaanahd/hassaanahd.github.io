@@ -73,3 +73,20 @@ permalink: /teach/
 
 _SBASSE: Syed Babar Ali School of Science & Engineering_  
 _LUMS: Lahore University of Management Sciences, Lahore, Pakistan_
+
+
+| Course | Semester | Role | Department | Instructor |
+|--------|----------|------|------------|------------|
+| EE-5614 Learning for Dynamics & Control | Spring 2025 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Abubakr Muhammad |
+| ENV-362 Water & Society: A Systems Approach | Spring 2025 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Abubakr Muhammad |
+| EE-5612 Socio-Ecological Systems & Sustainability | Spring 2023 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Talha Manzoor |
+| EE-552 Power Electronics | Fall 2021 | Teaching Assistant | EE, SBASSE, LUMS | Prof. Nauman Ahmad Zaffar |
+| EE-554 Modelling & Control of Electrical Drives | Spring 2018 | Teaching Assistant | EE, SBASSE, LUMS | Prof. Nauman Ahmad Zaffar |
+| EE-552 Power Electronics | Fall 2017 | Teaching Assistant | EE, SBASSE, LUMS | Prof. Nauman Ahmad Zaffar |
+| EE-241L Circuits Lab | Spring 2017 | Teaching Assistant (Half Semester) | EE, SBASSE, LUMS | Dr. Hassan Abbas Khan |
+| EE-352 Electromechanical Systems | Spring 2017 | Grader | EE, SBASSE, LUMS | Prof. Nauman Ahmad Zaffar |
+| EE-353 Electrical Power Systems | Spring 2017 | Grader | EE, SBASSE, LUMS | Prof. Nauman Ahmad Zaffar |
+| EE-554 Modelling & Control of Electrical Drives | Spring 2017 | Teaching Assistant & Grader | EE, SBASSE, LUMS | Prof. Nauman Ahmad Zaffar |
+| EE-552 Power Electronics | Fall 2016 | Grader (Half Semester) | EE, SBASSE, LUMS | Prof. Nauman Ahmad Zaffar |
+| EE-555 Renewable Energy Systems | Fall 2016 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Hassan Abbas Khan |
+| EE-241L Circuits Lab | Spring 2016 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Hassan Abbas Khan |
