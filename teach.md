@@ -78,6 +78,8 @@ _LUMS: Lahore University of Management Sciences, Lahore, Pakistan_
 
 | Course | Semester | Role | Department | Instructor |
 |--------|----------|------|------------|------------|
+| EE-5614 Learning for Dynamics & Control | Summer 2026 | Teaching Assistant (Support) | EE, SBASSE, LUMS | Dr. Abubakr Muhammad |
+| EE-361 Feedback Control Systems | Spring 2026 | Teaching Assistant (Support) | EE, SBASSE, LUMS | Dr. Abubakr Muhammad |
 | EE-5614 Learning for Dynamics & Control | Spring 2025 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Abubakr Muhammad |
 | ENV-362 Water & Society: A Systems Approach | Spring 2025 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Abubakr Muhammad |
 | EE-5612 Socio-Ecological Systems & Sustainability | Spring 2023 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Talha Manzoor |
