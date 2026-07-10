@@ -3,10 +3,9 @@ layout: page
 title: Research & Publications
 permalink: /research_n_pubs/
 ---
-
 ## Research Themes
 
-<details>
+<details markdown="1">
 <summary><strong>Socio-Ecological Systems</strong></summary>
 
 Regions dependent on groundwater for domestic supply and irrigation are experiencing increasing stress due to prolonged extraction and declining recharge. Combined with the lack of viable alternative water sources, this makes quantitative assessment of long-term sustainability essential. Such assessment must account not only for the physical dynamics of the aquifer but also for the behavioral heterogeneity of communities that drive extraction patterns.
@@ -16,16 +15,14 @@ In this work, each **Sub-Watershed Region (HUC12)** of the **United States High 
 To estimate the unknown parameters of this system, we employ **Dynamic Mode Decomposition with Control (DMDc)** [2], which provides a reduced-order representation while preserving the affine structure of the underlying dynamics. DMDc identifies a best-fit linear operator from spatio-temporal snapshot data, enabling system identification in a data-driven manner.
 
 The dataset consists of:
-
 - Monthly groundwater withdrawal aggregates [3]
 - Groundwater level measurements from monitoring wells across the High Plains Aquifer [4]
 
 Groundwater levels are used as a proxy for aquifer storage under the assumption of approximate proportionality between observed head changes and storage variations.
 
-Preliminary results demonstrate that the proposed framework can recover interpretable community-scale interaction patterns and dominant consumption modes from aggregate data. However, limitations remain in terms of identifiability under sparse observations and sensitivity to aggregation assumptions. These results provide a data-driven foundation for future groundwater sustainability assessment and policy analysis.
+Preliminary results demonstrate that the proposed framework can recover interpretable community-scale interaction patterns and dominant consumption modes from aggregate data. However, limitations remain in terms of identifiability under sparse observations and sensitivity to aggregation assumptions. These results provide a data-driven foundation for future groundwater sustainability assessment and policy analysis, and are detailed further in [5].
 
 ### References
-
 1. T. Manzoor, E. Rovenskaya, A. Muhammad, *IFAC-PapersOnLine*, **50**, 7675 (2017).
 2. J. L. Proctor, S. L. Brunton, J. N. Kutz, *SIAM Journal on Applied Dynamical Systems*, **15**, 142 (2016).
 3. U.S. Geological Survey, *Water Resources Mission Area: Water Use in the United States* (2023). Accessed August 15, 2025.
@@ -34,8 +31,5 @@ Preliminary results demonstrate that the proposed framework can recover interpre
 
 </details>
 
----
-
 ## Publications
-
 - **H. Ahmed**, **A. Muhammad**, *Inferring Community-Level Interaction Structures in Groundwater Consumption Using Dynamic Mode Decomposition with Control (DMDc)*, in **Proceedings of the 23rd IFAC World Congress**, Busan, South Korea, 2026.
