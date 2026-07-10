@@ -5,8 +5,8 @@ permalink: /research/
 ---
 
 ### Data-Driven Socio-Ecological Systems  
-
-Abstract  
+<details>
+<summary>Abstract</summary>
 
 Regions dependent on groundwater for domestic supply and irrigation are experiencing increasing stress due to prolonged extraction and declining recharge. This, combined with the lack of viable alternative sources, makes quantitative assessment of long-term sustainability essential. Such assessment must account not only for the physical dynamics of the aquifer but also for the behavioral heterogeneity of communities that drive extraction patterns.  
 
@@ -22,3 +22,7 @@ References:
 [3] U.S. Geological Survey, Water Resources Mission Area, Water Use in the United States (2023), accessed 2025-08-15.  
 [4] U.S. Geological Survey, National Ground-Water Monitoring Network Data Portal (2025), accessed 2025-08-15.  
 [5] H. Ahmed, A. Muhammad, Inferring Community-Level Interaction Structures in Groundwater Consumption Using Dynamic Mode Decomposition with Control (DMDc), accepted (to appear) in IFAC World Congress 2026  
+
+</details>
+
+
