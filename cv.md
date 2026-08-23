@@ -47,6 +47,19 @@ permalink: /cv/
 
 ---
 
+## Student Mentorship
+
+**Summer Mentorship Program** (July 2026)  
+  &nbsp;&nbsp;*Centre for Water Informatics and Technology*  
+  &nbsp;&nbsp;*Lahore University of Management Sciences, Lahore, Pakistan*  
+  &nbsp;&nbsp;Project: Spatio-Temporal Modelling of High Plains Aquifer*  
+  
+**RISE Internship** (July 2026)  
+  &nbsp;&nbsp;*Lahore University of Management Sciences, Lahore, Pakistan*  
+  &nbsp;&nbsp;*Project: Analysis of Low-Dimensional Non-Linear Systems*
+
+---
+
 ## Academic Activities
 
 - AI Spring School 2026: AI Foundations and Frontiers for the Future, The Centre of Urban Informatics, Technology and Policy (CITY), LUMS, 4th-5th April 2026 - _**Participant**_
