@@ -52,7 +52,7 @@ permalink: /cv/
 **Summer Mentorship Program** (July 2026)  
   &nbsp;&nbsp;*Centre for Water Informatics and Technology*  
   &nbsp;&nbsp;*Lahore University of Management Sciences, Lahore, Pakistan*  
-  &nbsp;&nbsp;Project: Spatio-Temporal Modelling of High Plains Aquifer*  
+  &nbsp;&nbsp;*Project: Spatio-Temporal Modelling of High Plains Aquifer*  
   
 **RISE Internship** (July 2026)  
   &nbsp;&nbsp;*Lahore University of Management Sciences, Lahore, Pakistan*  
