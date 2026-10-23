@@ -5,7 +5,6 @@ permalink: /research_n_pubs/
 ---
 
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-.cv h2,.cv h3,.cv .now .t{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-weight:400;letter-spacing:-.01em}
 <style>
 .cv{font-family:"Source Serif 4",Georgia,serif;font-size:17px;line-height:1.65}
 .cv h2{font-family:inherit;font-size:24px;font-weight:600;border-bottom:1px solid #444;padding-bottom:6px;margin:44px 0 18px}
@@ -34,6 +33,7 @@ permalink: /research_n_pubs/
 .cv .yr{color:#EF9F27;font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-size:13px;padding-top:4px}
 .cv .venue{display:inline-block;font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-size:12px;color:#9FE1CB;background:#0f3a2e;border-radius:20px;padding:2px 10px;margin-top:6px}
 @media (max-width:560px){.cv .pub{grid-template-columns:1fr}.cv .yr{padding-top:0}.cv .theme{padding:18px 16px}}
+.cv h2,.cv h3,.cv .now .t{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-weight:400;letter-spacing:-.01em}
 </style>
 
 <div class="cv">
