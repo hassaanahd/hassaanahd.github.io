@@ -3,33 +3,79 @@ layout: page
 title: Research & Publications
 permalink: /research_n_pubs/
 ---
-## Research Themes
 
-<details markdown="1">
-<summary><strong>Socio-Ecological Systems</strong></summary>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 
-Regions dependent on groundwater for domestic supply and irrigation are experiencing increasing stress due to prolonged extraction and declining recharge. Combined with the lack of viable alternative water sources, this makes quantitative assessment of long-term sustainability essential. Such assessment must account not only for the physical dynamics of the aquifer but also for the behavioral heterogeneity of communities that drive extraction patterns.
+<style>
+.cv{font-family:"Source Serif 4",Georgia,serif;font-size:17px;line-height:1.65}
+.cv h2{font-family:inherit;font-size:24px;font-weight:600;border-bottom:1px solid #444;padding-bottom:6px;margin:44px 0 18px}
+.cv h2:first-child{margin-top:8px}
+.cv .t{color:#fff}
+.cv em{color:#9a9a9a}
+.cv .sans{font-family:-apple-system,"Segoe UI",Roboto,sans-serif}
+.cv .sm{color:#9a9a9a;font-size:14px;font-family:-apple-system,"Segoe UI",Roboto,sans-serif}
+.cv .theme{border:1px solid #333;border-radius:10px;padding:22px 24px;margin-bottom:18px}
+.cv .theme h3{font-family:inherit;font-size:22px;font-weight:600;color:#fff;margin:10px 0 6px;line-height:1.3}
+.cv .status{display:inline-flex;align-items:center;gap:7px;font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-size:12px;color:#EF9F27;border:1px solid #5a3a10;border-radius:20px;padding:2px 10px}
+.cv .status:before{content:"";width:7px;height:7px;border-radius:50%;background:#EF9F27;animation:pulse 1.8s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.25}}
+.cv .kw{margin:6px 0 18px}
+.cv .kw span{display:inline-block;font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-size:12px;color:#ccc;background:#262626;border-radius:4px;padding:2px 8px;margin:4px 4px 0 0}
+.cv .lbl{font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:#EF9F27;margin:18px 0 6px}
+.cv .theme p{margin:0 0 12px}
+.cv .aims{border-left:2px solid #EF9F27;padding:2px 0 2px 16px;margin:6px 0 14px}
+.cv .aims div{margin-bottom:8px}
+.cv .aims b{color:#EF9F27;font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-size:14px;margin-right:6px}
+.cv details{margin-top:14px}
+.cv summary{cursor:pointer;color:#79b8ff;font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-size:14px}
+.cv ol.refs{font-size:14px;color:#aaa;padding-left:22px;margin:10px 0 0;font-family:-apple-system,"Segoe UI",Roboto,sans-serif}
+.cv ol.refs li{margin-bottom:6px}
+.cv .pub{display:grid;grid-template-columns:120px 1fr;gap:4px 22px;margin-bottom:16px}
+.cv .yr{color:#EF9F27;font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-size:13px;padding-top:4px}
+.cv .venue{display:inline-block;font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-size:12px;color:#9FE1CB;background:#0f3a2e;border-radius:20px;padding:2px 10px;margin-top:6px}
+@media (max-width:560px){.cv .pub{grid-template-columns:1fr}.cv .yr{padding-top:0}.cv .theme{padding:18px 16px}}
+</style>
 
-In this work, each **Sub-Watershed Region (HUC12)** of the **United States High Plains Aquifer** is modeled as a community-level agent within an affine parametric socio-ecological system [1]. This formulation assumes a fixed interaction structure and aggregates complex local dynamics into community-level representations, which may introduce modeling bias due to spatial and behavioral heterogeneity. The conditions required for the validity of the within-community homogeneity assumption are discussed in [1].
+<div class="cv">
 
-To estimate the unknown parameters of this system, we employ **Dynamic Mode Decomposition with Control (DMDc)** [2], which provides a reduced-order representation while preserving the affine structure of the underlying dynamics. DMDc identifies a best-fit linear operator from spatio-temporal snapshot data, enabling system identification in a data-driven manner.
+<h2>Research Themes</h2>
 
-The dataset consists of:
-- Monthly groundwater withdrawal aggregates [3]
-- Groundwater level measurements from monitoring wells across the High Plains Aquifer [4]
+<div class="theme">
+<span class="status">Ongoing work</span>
+<h3>Inferring Sociological Dynamics from Observational Data</h3>
+<div class="kw"><span>Socio-ecological systems</span><span>Opinion dynamics</span><span>Network identification</span><span>DMDc</span><span>Koopman operators</span><span>Groundwater</span></div>
 
-Groundwater levels are used as a proxy for aquifer storage under the assumption of approximate proportionality between observed head changes and storage variations.
+<div class="lbl">Abstract</div>
+<p>Natural resources are being depleted faster than they recover, and how a community consumes a shared resource depends not only on biophysical conditions of the resource but also on how its members influence one another. Coupled Sociological and Biophysical models capture this influence through a social network of consumers and other parameters [1–3]. This work asks when these parameters and the social network can be recovered from observational data.</p>
 
-Preliminary results demonstrate that the proposed framework can recover interpretable community-scale interaction patterns and dominant consumption modes from aggregate data. However, limitations remain in terms of identifiability under sparse observations and sensitivity to aggregation assumptions. These results provide a data-driven foundation for future groundwater sustainability assessment and policy analysis, and are detailed further in [5].
+<p>We combine classical models of social influence, the DeGroot [1] and Friedkin–Johnsen [2] models, with data-driven system identification using Dynamic Mode Decomposition with control (DMDc) [5]. A common identification and validation protocol is applied to two case studies: the High Plains Aquifer in the United States at the sub-watershed scale [6], and Smallholder wheat farms in central Punjab, Pakistan. In both, estimators that recover known networks in simulation find no network in the real data. The records are generated by water-accounting rules rather than by individual decisions, and shared weather and irrigation schedules are indistinguishable from social influence, an instance of Manski's reflection problem [4].</p>
 
-### References
-1. T. Manzoor, E. Rovenskaya, A. Muhammad, *IFAC-PapersOnLine*, **50**, 7675 (2017).
-2. J. L. Proctor, S. L. Brunton, J. N. Kutz, *SIAM Journal on Applied Dynamical Systems*, **15**, 142 (2016).
-3. U.S. Geological Survey, *Water Resources Mission Area: Water Use in the United States* (2023). Accessed August 15, 2025.
-4. U.S. Geological Survey, *National Ground-Water Monitoring Network Data Portal* (2025). Accessed August 15, 2025.
-5. H. Ahmed, A. Muhammad, *Inferring Community-Level Interaction Structures in Groundwater Consumption Using Dynamic Mode Decomposition with Control (DMDc)*, accepted for publication in the **23rd IFAC World Congress**, Busan, South Korea, 2026.
+<div class="lbl">Ongoing aims</div>
+<div class="aims">
+<div>Establish conditions under which a social network can be recovered from socio-ecological data, and the data required to do so.</div>
+</div>
 
+<p class="sm">PhD research, supervised by Dr. Abubakr Muhammad, Centre for Water Informatics and Technology, LUMS.</p>
+
+<details>
+<summary>References</summary>
+<ol class="refs">
+<li>M. H. DeGroot, <em>Journal of the American Statistical Association</em>, <b>69</b>, 118 (1974).</li>
+<li>N. E. Friedkin, E. C. Johnsen, <em>Journal of Mathematical Sociology</em>, <b>15</b>, 193 (1990).</li>
+<li>T. Manzoor, E. Rovenskaya, A. Muhammad, <em>IFAC-PapersOnLine</em>, <b>50</b>, 7675 (2017).</li>
+<li>C. F. Manski, <em>Review of Economic Studies</em>, <b>60</b>, 531 (1993).</li>
+<li>J. L. Proctor, S. L. Brunton, J. N. Kutz, <em>SIAM Journal on Applied Dynamical Systems</em>, <b>15</b>, 142 (2016).</li>
+<li>H. Ahmed, A. Muhammad, <em>Inferring Community-Level Interaction Structures in Groundwater Consumption Using Dynamic Mode Decomposition with Control (DMDc)</em>, 23rd IFAC World Congress, Busan, South Korea (2026).</li>
+</ol>
 </details>
+</div>
 
-## Publications
-- **H. Ahmed**, **A. Muhammad**, *Inferring Community-Level Interaction Structures in Groundwater Consumption Using Dynamic Mode Decomposition with Control (DMDc)*, in **Proceedings of the 23rd IFAC World Congress**, Busan, South Korea, 2026.
+<h2>Publications</h2>
+
+<div class="pub"><div class="yr">2026</div><div>
+<span class="t">Inferring Community-Level Interaction Structures in Groundwater Consumption Using Dynamic Mode Decomposition with Control (DMDc)</span><br>
+<span class="sm"><b style="color:#e8e8e8">H. Ahmed</b>, A. Muhammad</span><br>
+<span class="venue">Proceedings of the 23rd IFAC World Congress · Busan, South Korea</span>
+</div></div>
+
+</div>
