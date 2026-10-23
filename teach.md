@@ -3,85 +3,63 @@ layout: page
 title: Teaching
 permalink: /teach/
 ---
-<!--
-**EE-5614 Learning for Dynamics & Control (Spring 2025)**  
-&nbsp;&nbsp;_Teaching Assistant_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Dr. Abubakr Muhammad_  
 
-**ENV-362 Water & Society: A Systems Approach (Spring 2025)**  
-&nbsp;&nbsp;_Teaching Assistant_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Dr. Abubakr Muhammad_  
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 
-**EE-5612 Socio-Ecological Systems & Sustainability (Spring 2023)**  
-&nbsp;&nbsp;_Teaching Assistant_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Dr. Talha Manzoor_  
+<style>
+.cv{font-family:"Source Serif 4",Georgia,serif;font-size:17px;line-height:1.6}
+.cv h2{font-family:inherit;font-size:24px;font-weight:600;border-bottom:1px solid #444;padding-bottom:6px;margin:44px 0 16px}
+.cv .row{display:grid;grid-template-columns:120px 1fr;gap:4px 22px;margin-bottom:18px}
+.cv .yr{color:#EF9F27;font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-size:13px;padding-top:4px;line-height:1.5}
+.cv .t{color:#fff}
+.cv .code{font-family:-apple-system,"Segoe UI",Roboto,sans-serif;font-size:12px;color:#EF9F27;border:1px solid #5a3a10;border-radius:4px;padding:1px 6px;margin-right:6px;vertical-align:2px}
+.cv em{color:#9a9a9a}
+.cv .sm{color:#9a9a9a;font-size:14px;font-family:-apple-system,"Segoe UI",Roboto,sans-serif}
+.cv .note{color:#9a9a9a;font-size:14px;font-family:-apple-system,"Segoe UI",Roboto,sans-serif;border-left:2px solid #444;padding-left:12px;margin-bottom:8px}
+@media (max-width:560px){.cv .row{grid-template-columns:1fr}.cv .yr{padding-top:0}}
+</style>
 
-**EE-552 Power Electronics (Fall 2021)**  
-&nbsp;&nbsp;_Teaching Assistant_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Prof. Nauman Ahmad Zaffar_  
+<div class="cv">
 
-**EE-554 Modelling & Control of Electrical Drives (Spring 2018)**  
-&nbsp;&nbsp;_Teaching Assistant_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Prof. Nauman Ahmad Zaffar_  
+<div class="note">All courses offered by the Department of Electrical Engineering, Syed Babar Ali School of Science &amp; Engineering (SBASSE), Lahore University of Management Sciences (LUMS), Lahore, Pakistan.</div>
 
-**EE-552 Power Electronics (Fall 2017)**  
-&nbsp;&nbsp;_Teaching Assistant_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Prof. Nauman Ahmad Zaffar_  
+<h2>Courses</h2>
 
-**EE-241L Circuits Lab (Spring 2017)**  
-&nbsp;&nbsp;_Teaching Assistant (Half Semester)_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Dr. Hassan Abbas Khan_  
+<div class="row"><div class="yr">Fall 2026</div><div>
+<span class="code">EE-515</span><span class="t">Applied Probability</span><br>
+<em>Teaching Assistant</em><br>
+<span class="sm">Instructor: Dr. Momin Uppal</span>
+</div></div>
 
-**EE-352 Electromechanical Systems (Spring 2017)**  
-&nbsp;&nbsp;_Grader_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Prof. Nauman Ahmad Zaffar_  
+<div class="row"><div class="yr">Summer 2026<br>Spring 2025</div><div>
+<span class="code">EE-5614</span><span class="t">Learning for Dynamics &amp; Control</span><br>
+<em>Teaching Assistant</em><br>
+<span class="sm">Instructor: Dr. Abubakr Muhammad</span>
+</div></div>
 
-**EE-353 Electrical Power Systems (Spring 2017)**  
-&nbsp;&nbsp;_Grader_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Prof. Nauman Ahmad Zaffar_  
+<div class="row"><div class="yr">Spring 2025</div><div>
+<span class="code">ENV-362</span><span class="t">Water &amp; Society: A Systems Approach</span><br>
+<em>Teaching Assistant</em><br>
+<span class="sm">Instructor: Dr. Abubakr Muhammad</span>
+</div></div>
 
-**EE-554 Modelling & Control of Electrical Drives (Spring 2017)**  
-&nbsp;&nbsp;_Teaching Assistant & Grader_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Prof. Nauman Ahmad Zaffar_  
+<div class="row"><div class="yr">Spring 2023</div><div>
+<span class="code">EE-5612</span><span class="t">Socio-Ecological Systems &amp; Sustainability</span><br>
+<em>Teaching Assistant</em><br>
+<span class="sm">Instructor: Dr. Talha Manzoor</span>
+</div></div>
 
-**EE-552 Power Electronics (Fall 2016)**  
-&nbsp;&nbsp;_Grader (Half Semester)_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Prof. Nauman Ahmad Zaffar_  
+<div class="row"><div class="yr">Fall 2021<br>Fall 2017<br>Fall 2016</div><div>
+<span class="code">EE-552</span><span class="t">Power Electronics</span><br>
+<em>Teaching Assistant (Fall 2021, Fall 2017) · Grader, half semester (Fall 2016)</em><br>
+<span class="sm">Instructor: Prof. Nauman Ahmad Zaffar</span>
+</div></div>
 
-**EE-555 Renewable Energy Systems (Fall 2016)**  
-&nbsp;&nbsp;_Teaching Assistant_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Dr. Hassan Abbas Khan_  
+<div class="row"><div class="yr">Spring 2018<br>Spring 2017</div><div>
+<span class="code">EE-554</span><span class="t">Modelling &amp; Control of Electrical Drives</span><br>
+<em>Teaching Assistant (Spring 2018) · Teaching Assistant &amp; Grader (Spring 2017)</em><br>
+<span class="sm">Instructor: Prof. Nauman Ahmad Zaffar</span>
+</div></div>
 
-**EE-241L Circuits Lab (Spring 2016)**  
-&nbsp;&nbsp;_Teaching Assistant_  
-&nbsp;&nbsp;*Department of Electrical Engineering, SBASSE, LUMS*  
-&nbsp;&nbsp;_Instructor: Dr. Hassan Abbas Khan_  
-
----
--->
-_EE: Electrical Engineering_  
-_SBASSE: Syed Babar Ali School of Science & Engineering_  
-_LUMS: Lahore University of Management Sciences, Lahore, Pakistan_
-
-
-| Course | Semester | Role | Department | Instructor |
-|--------|----------|------|------------|------------|
-| EE-5614 Learning for Dynamics & Control | Spring 2025; Summer 2026 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Abubakr Muhammad |
-| ENV-362 Water & Society: A Systems Approach | Spring 2025 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Abubakr Muhammad |
-| EE-5612 Socio-Ecological Systems & Sustainability | Spring 2023 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Talha Manzoor |
-| EE-554 Modelling & Control of Electrical Drives | Spring 2017; Spring 2018 | Teaching Assistant & Grader | EE, SBASSE, LUMS | Prof. Nauman Ahmad Zaffar |
-| EE-552 Power Electronics | Fall 2016; Fall 2017; Fall 2021 | Teaching Assistant | EE, SBASSE, LUMS | Prof. Nauman Ahmad Zaffar |
-| EE-555 Renewable Energy Systems | Fall 2016 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Hassan Abbas Khan |
-| EE-241L Circuits Lab | Spring 2016 | Teaching Assistant | EE, SBASSE, LUMS | Dr. Hassan Abbas Khan |
+<div class="row"><div class="yr">Spring 2017<br>Spring 2016</div><div>
+<span class="code">EE-241L</span><span class="t">Circuits
