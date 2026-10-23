@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-
+.cv h2,.cv h3,.cv .now .t{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-weight:400;letter-spacing:-.01em}
 <style>
 .cv{font-family:"Source Serif 4",Georgia,serif;font-size:17px;line-height:1.6}
 .cv h2{font-family:inherit;font-size:24px;font-weight:600;border-bottom:1px solid #444;padding-bottom:6px;margin:44px 0 16px}
