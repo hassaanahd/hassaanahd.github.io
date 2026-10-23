@@ -5,7 +5,6 @@ permalink: /teach/
 ---
 
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
-.cv h2,.cv h3,.cv .now .t{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-weight:400;letter-spacing:-.01em}
 <style>
 .cv{font-family:"Source Serif 4",Georgia,serif;font-size:17px;line-height:1.6}
 .cv h2{font-family:inherit;font-size:24px;font-weight:600;border-bottom:1px solid #444;padding-bottom:6px;margin:44px 0 16px}
@@ -17,6 +16,7 @@ permalink: /teach/
 .cv .sm{color:#9a9a9a;font-size:14px;font-family:-apple-system,"Segoe UI",Roboto,sans-serif}
 .cv .note{color:#9a9a9a;font-size:14px;font-family:-apple-system,"Segoe UI",Roboto,sans-serif;border-left:2px solid #444;padding-left:12px;margin-bottom:8px}
 @media (max-width:560px){.cv .row{grid-template-columns:1fr}.cv .yr{padding-top:0}}
+.cv h2,.cv h3,.cv .now .t{font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-weight:400;letter-spacing:-.01em}
 </style>
 
 <div class="cv">
