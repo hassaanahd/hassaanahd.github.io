@@ -1,0 +1,42 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name"><strong>{{ site.author.name }}</strong></li>
+          <li>PhD Candidate, Electrical Engineering</li>
+          <li>Centre for Water Informatics &amp; Technology, LUMS</li>
+          <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="contact-list">
+          {%- if site.author.scholar -%}
+          <li><a href="https://scholar.google.com/citations?user={{ site.author.scholar }}" target="_blank" rel="noopener">Google Scholar</a></li>
+          {%- endif -%}
+          {%- if site.author.orcid -%}
+          <li><a href="https://orcid.org/{{ site.author.orcid }}" target="_blank" rel="noopener">ORCID</a></li>
+          {%- endif -%}
+          {%- if site.author.github -%}
+          <li><a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a></li>
+          {%- endif -%}
+          {%- if site.author.linkedin -%}
+          <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a></li>
+          {%- endif -%}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>
+          <a href="{{ "/assets/cv.pdf" | relative_url }}">Download CV (PDF)</a><br>
+          <small>Last updated {{ site.time | date: "%B %Y" }}</small>
+        </p>
+      </div>
+
+    </div>
+  </div>
+</footer>
