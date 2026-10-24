@@ -89,7 +89,12 @@ permalink: /cv/
 <span class="sm">Project: Analysis of Low-Dimensional Non-Linear Systems</span>
 </div></div>
 
-<h2>Academic Activities</h2>
+<h2>Extracurriculars</h2>
+
+<div class="row"><div class="yr">Sept 2026</div><div>
+<span class="t">EUMACC Summer School on Learning Climate Systems: From Process to Decisions</span> — <em>Participant</em><br>
+<span class="sm">Hosted by CMCC and Politecnico di Milano at Lake Como School of Advanced Studies in Villa Del Grumello · 7th–10th Sept 2026</span>
+</div></div>
 
 <div class="row"><div class="yr">Apr 2026</div><div>
 <span class="t">AI Spring School 2026: AI Foundations and Frontiers for the Future</span> — <em>Participant</em><br>
@@ -98,7 +103,7 @@ permalink: /cv/
 
 <div class="row"><div class="yr">Dec 2026</div><div>
 <span class="t">14th Teaching the Teachers Workshop 2025: Hardware-X</span> — <em>Participant</em><br>
-<span class="sm">Advanced Workshop on Circuit Theory, Measurements and Design by Dr. Asad Abidi, LUMS · 22nd–26th December 2026</span>
+<span class="sm">Advanced Workshop on Circuit Theory, Measurements and Design by Dr. Asad Abidi, LUMS · 22nd–26th December 2025</span>
 </div></div>
 
 <div class="row"><div class="yr">Jun 2024</div><div>
