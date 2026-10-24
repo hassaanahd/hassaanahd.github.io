@@ -25,6 +25,12 @@ permalink: /teach/
 
 <h2>Courses</h2>
 
+<div class="row"><div class="yr">Fall 2025</div><div>
+<span class="code">EE-515</span><span class="t">Applied Probability</span><br>
+<em>Teaching Assistant</em><br>
+<span class="sm">Instructor: Dr. Momin Uppal</span>
+</div></div>
+
 <div class="row"><div class="yr">Summer 2026<br>Spring 2025</div><div>
 <span class="code">EE-5614</span><span class="t">Learning for Dynamics &amp; Control</span><br>
 <em>Teaching Assistant</em><br>
