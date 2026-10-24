@@ -1,7 +1,6 @@
 title: Hassaan Ahmed
-# description: Personal website of Hassaan Ahmed
+description: PhD candidate in Electrical Engineering at LUMS, working on socio-ecological systems, groundwater, and data-driven system identification.
 
-# Use remote_theme instead of theme
 remote_theme: jekyll/minima
 
 plugins:
@@ -9,11 +8,16 @@ plugins:
 
 minima:
   skin: dark
+  nav_pages:
+    - research_n_pubs.md
+    - teach.md
+    - cv.md
+    - read.md
 
-# Navigation menu
-header_pages:
-  - index.md
-  - read.md
-  - cv.md
-  - teach.md
-  - research_n_pubs.md
+author:
+  name: Hassaan Ahmed
+  email: hassaan.ahmed@lums.edu.pk
+  github: hassaanahd
+  scholar: YOUR_SCHOLAR_ID
+  orcid: 0000-0000-0000-0000
+  linkedin: your-linkedin-handle
