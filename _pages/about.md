@@ -1,0 +1,29 @@
+---
+permalink: /
+title: "Hassaan Ahmed"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
+I am a PhD student in Electrical Engineering at the Lahore University of Management Sciences (LUMS), working with [Dr. Abubakr Muhammad](https://scholar.google.com/citations?user=I8BnID0AAAAJ&hl=en) at the Centre for Water Informatics and Technology (CWIT).
+
+My research asks when the social side of resource use can be recovered from data. How a community draws on a shared resource such as groundwater depends not only on the resource itself but on how its members influence one another. I combine classical models of social influence with data-driven system identification, mainly Dynamic Mode Decomposition and Koopman operator methods, and test them on the High Plains Aquifer in the United States and on smallholder wheat farms in central Punjab. More on the [Research](/research/) page.
+
+Before moving into socio-ecological systems, I trained in power electronics and energy systems at LUMS, where I completed my BS and MS.
+
+<h2 class="sec">Interests</h2>
+
+<div class="row"><div class="yr">Earth system</div><div>Groundwater, climate, coupled socio-ecological systems</div></div>
+<div class="row"><div class="yr">Control</div><div>Dynamical and nonlinear systems, control theory, robotics, optimization</div></div>
+<div class="row"><div class="yr">Data &amp; AI</div><div>Koopman operator theory, Dynamic Mode Decomposition, scientific machine learning</div></div>
+
+<h2 class="sec">News</h2>
+
+<ul class="news">
+<li><span class="yr">Sep 2026</span><span>Attended the EUMACC Summer School on Learning Climate Systems at Lake Como, hosted by CMCC and Politecnico di Milano.</span></li>
+<li><span class="yr">Jul 2026</span><span>Mentoring two summer students at LUMS, on spatio-temporal modelling of the High Plains Aquifer and on low-dimensional nonlinear systems.</span></li>
+<li><span class="yr">2026</span><span>Paper on inferring community interaction structures in groundwater use with DMDc at the <a href="/publications/">23rd IFAC World Congress</a>, Busan.</span></li>
+<li><span class="yr">Apr 2026</span><span>Took part in the AI Spring School 2026 at the CITY centre, LUMS.</span></li>
+</ul>
