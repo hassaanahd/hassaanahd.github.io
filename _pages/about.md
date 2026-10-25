@@ -9,10 +9,6 @@ redirect_from:
 
 I am a PhD student in Electrical Engineering at the Lahore University of Management Sciences (LUMS), working with [Dr. Abubakr Muhammad](https://scholar.google.com/citations?user=I8BnID0AAAAJ&hl=en) at the Centre for Water Informatics and Technology (CWIT).
 
-My research asks when the social side of resource use can be recovered from data. How a community draws on a shared resource such as groundwater depends not only on the resource itself but on how its members influence one another. I combine classical models of social influence with data-driven system identification, mainly Dynamic Mode Decomposition and Koopman operator methods, and test them on the High Plains Aquifer in the United States and on smallholder wheat farms in central Punjab. More on the [Research](/research/) page.
-
-Before moving into socio-ecological systems, I trained in power electronics and energy systems at LUMS, where I completed my BS and MS.
-
 <h2 class="sec">Interests</h2>
 
 <div class="row"><div class="yr">Earth system</div><div>Groundwater, climate, coupled socio-ecological systems</div></div>
