@@ -14,7 +14,7 @@ redirect_from:
 <span class="sm">Instructor: Dr. Abubakr Muhammad</span>
 </div></div>
 
-<div class="row"><div class="yr">Fall 2025</div><div>
+<div class="row"><div class="yr">Fall 2026</div><div>
 <span class="code">EE-515</span><span class="t">Applied Probability</span><br>
 <em>Teaching Assistant</em><br>
 <span class="sm">Instructor: Dr. Momin Uppal</span>
