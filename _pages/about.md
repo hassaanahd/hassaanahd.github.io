@@ -11,9 +11,9 @@ I am a PhD student in Electrical Engineering at the Lahore University of Managem
 
 <h2 class="sec">Interests</h2>
 
-<div class="row"><div class="yr">Earth system</div><div>Groundwater, climate, coupled socio-ecological systems</div></div>
-<div class="row"><div class="yr">Control</div><div>Dynamical and nonlinear systems, control theory, robotics, optimization</div></div>
-<div class="row"><div class="yr">Data &amp; AI</div><div>Koopman operator theory, Dynamic Mode Decomposition, scientific machine learning</div></div>
+<div class="row"><div class="yr">Earth System</div><div>Groundwater, Climate, Coupled Sociological-Biophysical Systems</div></div>
+<div class="row"><div class="yr">Control</div><div>Non-Linear Systems, Safe Autonomous Control, Robotics, Optimization</div></div>
+<div class="row"><div class="yr">Data &amp; AI</div><div>Koopman Operators, Dynamic Mode Decomposition, Scientific Machine Learning</div></div>
 
 <h2 class="sec">News</h2>
 
